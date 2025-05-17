@@ -1,0 +1,22 @@
+const cryptoList = [
+    { id: "bitcoin", symbol: "btc", name: "Bitcoin" },
+    { id: "ethereum", symbol: "eth", name: "Ethereum" },
+    { id: "tether", symbol: "usdt", name: "Tether" },
+    { id: "binancecoin", symbol: "bnb", name: "BNB" },
+    { id: "solana", symbol: "sol", name: "Solana" },
+    { id: "ripple", symbol: "xrp", name: "XRP" },
+    { id: "cardano", symbol: "ada", name: "Cardano" },
+    { id: "dogecoin", symbol: "doge", name: "Dogecoin" },
+    { id: "polkadot", symbol: "dot", name: "Polkadot" },
+    { id: "shiba-inu", symbol: "shib", name: "Shiba Inu" },
+    { id: "avalanche-2", symbol: "avax", name: "Avalanche" },
+    { id: "chainlink", symbol: "link", name: "Chainlink" },
+    { id: "matic-network", symbol: "matic", name: "Polygon" },
+    { id: "stellar", symbol: "xlm", name: "Stellar" },
+    { id: "litecoin", symbol: "ltc", name: "Litecoin" },
+    { id: "uniswap", symbol: "uni", name: "Uniswap" },
+    { id: "bitcoin-cash", symbol: "bch", name: "Bitcoin Cash" },
+    { id: "monero", symbol: "xmr", name: "Monero" },
+    { id: "ethereum-classic", symbol: "etc", name: "Ethereum Classic" },
+    { id: "cosmos", symbol: "atom", name: "Cosmos Hub" }
+];
